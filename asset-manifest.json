@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evcomparison/static/css/main.71ed8b0c.css",
+    "main.js": "/evcomparison/static/js/main.feb1dbe5.js",
+    "static/js/787.8fa60a91.chunk.js": "/evcomparison/static/js/787.8fa60a91.chunk.js",
+    "index.html": "/evcomparison/index.html",
+    "main.71ed8b0c.css.map": "/evcomparison/static/css/main.71ed8b0c.css.map",
+    "main.feb1dbe5.js.map": "/evcomparison/static/js/main.feb1dbe5.js.map",
+    "787.8fa60a91.chunk.js.map": "/evcomparison/static/js/787.8fa60a91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ed8b0c.css",
+    "static/js/main.feb1dbe5.js"
+  ]
+}
